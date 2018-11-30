@@ -1,0 +1,17 @@
+Start serwera odbedzie siê w pi¹tek 14.09.2012 o godz. 20:00
+Ostatnia aktualizacja: 03:03, 10.09.2012
+
+- Zrobione na nowo miasto Karmia
+- Nowe Train Monki
+- Wyrzucenie non-logout z Trainów
+- Run Event
+- Last Man Standing Event
+- Poprawiony Demon Oak Quest
+- Poprawione Areny Svargrond
+- Cotygodniowe nagrody w postaci punktow premium dla graczy najlepszych w swojej dziedzinie (Najlepszy level, magic level, skille)
+- Zrobiony na nowo Annihilator + poprawienie ilosci demonow na nim.
+- Nowy quest: Metalier
+- Naprawiony addoner
+- Wprowadzone skillowanie za soul pointsy, 2 minuty = 1 soul points
+- Naprawione spadanie magic levelu jak i skilli po deadzie, teraz dzia³a prawid³owo
+- Metin Stone Event

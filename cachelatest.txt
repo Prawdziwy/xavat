@@ -1,0 +1,19 @@
+
+							<div id="vt_menu">
+								<ul>
+									<center><a style="text-decoration: none;" href="?subtopic=guilds&action=show&guild=832"><img src="./images/gp/1.png" width="90" height="90" border="0" /></a></center>
+									<li><a style="text-decoration: none;" href="?subtopic=guilds&action=show&guild=832">Deceived</a> - 13368 kills</b></li>	
+								</ul>
+							</div>
+							<div id="vt_menu">
+								<ul>
+									<center><a style="text-decoration: none;" href="?subtopic=guilds&action=show&guild=762"><img src="./images/gp/2.png" width="90" height="90" border="0" /></a></center>
+									<li><a style="text-decoration: none;" href="?subtopic=guilds&action=show&guild=762">JUST DO IT</a> - 11365 kills</b></li>	
+								</ul>
+							</div>
+							<div id="vt_menu">
+								<ul>
+									<center><a style="text-decoration: none;" href="?subtopic=guilds&action=show&guild=785"><img src="./images/gp/3.png" width="90" height="90" border="0" /></a></center>
+									<li><a style="text-decoration: none;" href="?subtopic=guilds&action=show&guild=785">Sidde Effect</a> - 9959 kills</b></li>	
+								</ul>
+							</div>

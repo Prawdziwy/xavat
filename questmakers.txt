@@ -1,0 +1,206 @@
+
+		<table border="0" cellspacing="1" cellpadding="4" width="100%" id="iblue">
+			<tr bgcolor="#2f261f">
+				<td align="left" colspan="2" class="white" style="font-weight: bold;">Best quest makers</td>
+			</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Pchaj+Taczke">Pchaj Taczke</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Yebiemieto+Ed">Yebiemieto Ed</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Kokoszanin">Kokoszanin</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Nextgen+Puz+Drift+Team">Nextgen Puz Drift Team</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Ka+Na+Pka">Ka Na Pka</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Xavat+Szybki+Dru">Xavat Szybki Dru</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Ona+Tanczy+Dla+Mnie+Bo">Ona Tanczy Dla Mnie Bo</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Portowiec">Portowiec</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Krishak">Krishak</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Kefirek">Kefirek</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Pan+Czachowski">Pan Czachowski</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Nie+Bij+Mnie">Nie Bij Mnie</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Pahu">Pahu</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Hellsing">Hellsing</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Paral+Na+Klate">Paral Na Klate</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Czoka">Czoka</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Gladiarotix">Gladiarotix</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Enzzie">Enzzie</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Ekowaty">Ekowaty</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Chill+Bro">Chill Bro</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Pelson">Pelson</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Sliwex+Number+One">Sliwex Number One</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Rash+Wbija+Ekiem">Rash Wbija Ekiem</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Ibu">Ibu</a></td>
+					<td>4%<div title="4%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 4.1666666666667%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Shex">Shex</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Ojciec+Royal">Ojciec Royal</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Ananas">Ananas</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Wonderful">Wonderful</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Death+Druid">Death Druid</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Stifler+Nakurwia">Stifler Nakurwia</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Rollon">Rollon</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Anihila%27tor">Anihila'tor</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Tetrahydroc">Tetrahydroc</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Everius+Zen">Everius Zen</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Ya+Guaarr">Ya Guaarr</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Wirecki+Bandyta">Wirecki Bandyta</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Rocdket">Rocdket</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Hajno">Hajno</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Dfdf">Dfdf</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Klavera+Rl+Map">Klavera Rl Map</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Asada">Asada</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Gaan">Gaan</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=King">King</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Mistic+Ed">Mistic Ed</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Cisne+Msem">Cisne Msem</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Shotgun">Shotgun</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Xavaton">Xavaton</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Paladinejroo">Paladinejroo</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#2b1b12">
+					<td width="40%"><a href="?subtopic=characters&name=Brasileirinho">Brasileirinho</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+				<tr bgcolor="#251c16">
+					<td width="40%"><a href="?subtopic=characters&name=Tequillka">Tequillka</a></td>
+					<td>0%<div title="0%" style="width: 100%; height: 7px; background: white;"><div style="background: green; width: 0%; height: 7px;"></td>
+				</tr>
+		</table>
